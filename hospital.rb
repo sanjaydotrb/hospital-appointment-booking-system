@@ -151,8 +151,6 @@ def booking(*args)
     end
 end
 end
-
-
 p " welcome to hospital booking System"
 p("-----------------------------------------")
 print(" Enter 1 for Admin  \n Enter 2 for user  \n  ")
